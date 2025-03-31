@@ -8,12 +8,12 @@ This project is a **simple calculator** built using **Java Swing**. While the lo
 
 #z# 🛠 Technologies Used  
 - **Java** (Swing & AWT for GUI)  
-- **IDE**: [Your IDE, e.g., IntelliJ, Eclipse, or NetBeans]  
+- **IDE**: [ Eclipse]  
 
 ## 🚀 How to Run  
 **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/Calculator-Swing.git
+   git clone https://github.com/Deepika45n/Java-Swing-Calculator.git
 Open the project in your Java IDE
 
 Compile and run the Calculator.java file
