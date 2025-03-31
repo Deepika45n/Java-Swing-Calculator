@@ -11,7 +11,7 @@ This project is a **simple calculator** built using **Java Swing**. While the lo
 - **IDE**: [Your IDE, e.g., IntelliJ, Eclipse, or NetBeans]  
 
 ## 🚀 How to Run  
-m-e1. **Clone the repository**  
+**Clone the repository**  
    ```bash
    git clone https://github.com/your-username/Calculator-Swing.git
 Open the project in your Java IDE
